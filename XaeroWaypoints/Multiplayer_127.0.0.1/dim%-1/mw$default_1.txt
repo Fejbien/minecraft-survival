@@ -1,0 +1,29 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Swiateczne miasteczko:S:749:128:649:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Prysmarynik portal budowy:P:570:128:728:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ghast farm:G:1040:247:298:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Snow:S:781:128:542:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Frog light:F:882:128:361:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:bastion kolejka:B:1144:139:57:10:true:0:gui.xaero_default:false:0:0:false
+waypoint:Bartering:B:845:139:498:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gold:G:978:243:516:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pork/Leather:P:1227:128:233:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:czarne szkielety:C:4416:203:1408:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:End c§§:E:545:128:359:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:an2:A:1301:128:352:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Perimeter:P:834:128:336:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:End piasek:E:127:128:-212:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Desert:D:1035:128:345:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:zielone schody:Z:820:102:-197:10:true:0:gui.xaero_default:false:0:0:false
+waypoint:Mushroom island:M:788:128:-606:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Out post 2 :O:581:128:397:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:do:D:1093:60:1385:11:true:0:gui.xaero_default:false:0:0:false
+waypoint:schody:S:507:110:-201:3:true:0:gui.xaero_default:false:0:0:false
+waypoint:2wejscie:2:-130:103:606:14:true:0:gui.xaero_default:false:0:0:false
+waypoint:Portal dol:P:937:67:291:11:true:0:gui.xaero_default:false:0:0:false
+waypoint:Out post:O:791:128:9:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Swamp:S:716:128:359:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Home:H:966:128:294:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Emeralds:E:959:128:388:1:false:0:gui.xaero_default:false:388:0:false

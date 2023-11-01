@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Swiateczne miasteczko:S:5994:63:5198:11:true:0:gui.xaero_default:false:0:0:false
+waypoint:Swamp:S:5729:74:2867:14:true:0:gui.xaero_default:false:0:0:false
+waypoint:Home:B:7733:50:2321:9:true:0:gui.xaero_default:false:0:1:false
